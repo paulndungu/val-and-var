@@ -11,7 +11,7 @@ fun main(){
 
     println(name)
     println("Age: $age")
-    println("Description: "+desc )
+    println("Description: "+desc ) 
     println("Job: $job")
 
     }
